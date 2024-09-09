@@ -8,6 +8,8 @@
 
 # Fruits Image Classification
 
+![Fruits Image Classification](https://github.com/user-attachments/assets/02ceccd3-973d-4b0c-ab38-ff7d726288d5)
+
 ## Latar Belakang:
 Pengenalan gambar adalah salah satu topik penting dalam machine learning dan computer vision. Dengan kemajuan teknologi, klasifikasi gambar menjadi lebih mudah diakses dan dapat digunakan untuk berbagai aplikasi, mulai dari sistem keamanan hingga aplikasi kesehatan. Dalam proyek ini, fokus pada klasifikasi gambar buah untuk memahami bagaimana model deep learning dapat diimplementasikan untuk membedakan berbagai jenis buah.
 
