@@ -62,6 +62,7 @@ Pada dataset ini terdapat 24 kelas.
     - Lakukan **run all** pada project
 
  ## Conclusion
+ 
 - Berdasarkan percobaan, dihasilkan untuk:
     - Model              : Sequential
     - Akurasi            : 100 %
