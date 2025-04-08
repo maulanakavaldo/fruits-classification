@@ -78,3 +78,4 @@ Pada dataset ini terdapat 24 kelas.
 ## Saran
 - Melakukan eksperimen lebih lanjut dengan menggunakan pretrained model yang tidak digunakan pada project ini. (misal VGG, ResNet dan lainnya)
 - Menerapkan model ke dalam sebuah aplikasi
+  
